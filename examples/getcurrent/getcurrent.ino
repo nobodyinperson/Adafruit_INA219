@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include <WireNoFreeze.h>
 #include <Adafruit_INA219.h>
 
 Adafruit_INA219 ina219;
